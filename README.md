@@ -1,25 +1,10 @@
-### Hi there 👋
 
-<!--
-**azpsen/azpsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 April Petersen
 =============================================================================================================================
 
 Full stack developer. I love creating genuinely useful programs that help me and others, but I also find a lot of joy in programming for its own sake with algorithm visualization and toy applications. My favorite projects are those that have me filling notebooks with diagrams and banging my head on the keyboard.
 
-When I'm not sucked into my computer, you can find me flying, backpacking, playing the violin, reading, or getting really into a hobby I just discovered an hour ago.
+When I'm not sucked into my computer, you can find me flying, backpacking, playing the violin, reading, or getting really into a new hobby I just discovered an hour ago.
 
 *   🌍  I'm based in Minnesota
 *   😄  Pronouns: she/her
