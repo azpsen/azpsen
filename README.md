@@ -19,6 +19,8 @@ April Petersen
 
 Full stack developer. I love creating genuinely useful programs that help me and others, but I also find a lot of joy in programming for its own sake with algorithm visualization and toy applications. My favorite projects are those that have me filling notebooks with diagrams and banging my head on the keyboard.
 
+When I'm not sucked into my computer, you can find me flying, backpacking, playing the violin, reading, or getting really into a hobby I just discovered an hour ago.
+
 *   🌍  I'm based in Minnesota
 *   😄  Pronouns: she/her
 *   ✉️  You can contact me at [aprl.petersen@gmail.com](mailto:aprl.petersen@gmail.com)
