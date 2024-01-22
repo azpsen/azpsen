@@ -8,8 +8,9 @@ When I'm not sucked into my computer, you can find me flying, backpacking, playi
 
 *   🌍  I'm based in Minnesota
 *   😄  Pronouns: she/her
+*   📜  Find my resume [here](https://azpsen.com/assets/doc/resume.pdf)
 *   ✉️  You can contact me at [aprl.petersen@gmail.com](mailto:aprl.petersen@gmail.com)
-*   🚀  I'm currently working on [Tailfin](http://github.com/azpsen/tailfin-web) - a self-hosted flight logbook
+*   🚀  I'm currently working on [Tailfin](https://github.com/azpsen/tailfin-web) - a self-hosted flight logbook
 *   🧠  I'm currently learning React + Remix, PyTorch, and Kubernetes
 *   ⚡  Fun fact: Most fears about AI are actually fears about capitalism
   
