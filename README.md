@@ -1,5 +1,4 @@
-
-april petersen
+👋🏻 hi there
 =============================================================================================================================
 
 full stack developer. I love creating genuinely useful programs that help me and others, but I also find a lot of joy in programming for its own sake with algorithm visualization and toy applications. my favorite projects are those that have me filling notebooks with diagrams and banging my head on the keyboard.
