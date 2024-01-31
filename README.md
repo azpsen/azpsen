@@ -9,7 +9,7 @@ when I'm not sucked into my computer, you can find me flying, backpacking, playi
 *   🌍  minnesota
 *   😄  she/her
 *   📜  find my resume [here](https://azpsen.com/assets/doc/resume.pdf)
-*   ✉️  contact me at [aprl.petersen@gmail.com](mailto:aprl.petersen@gmail.com)
+*   ✉️  contact me at [aprl.petersen@gmail.com](mailto:aprl.petersen@gmail.com) or on [linkedin](https://www.linkedin.com/in/april-petersen)
 *   🚀  currently working on [Tailfin](https://github.com/azpsen/tailfin) - a self-hosted flight logbook
 *   🧠  currently learning React + Remix, PyTorch, and Kubernetes
 *   ⚡  fun fact: most fears about AI are actually fears about capitalism
