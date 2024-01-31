@@ -1,9 +1,11 @@
 👋🏻 hi there
 =============================================================================================================================
 
-full stack developer. I love creating genuinely useful programs that help me and others, but I also find a lot of joy in programming for its own sake with algorithm visualization and toy applications. my favorite projects are those that have me filling notebooks with diagrams and banging my head on the keyboard.
+Full-stack developer.
 
-when I'm not sucked into my computer, you can find me flying, backpacking, playing the violin, reading, or getting really into a new hobby I just discovered an hour ago.
+I love creating genuinely useful programs that help me and others, but I also find a lot of joy in programming for its own sake with algorithm visualization and toy applications. My favorite projects are those that have me filling notebooks with diagrams and banging my head on the keyboard.
+
+When I'm not sucked into my computer, you can find me flying, backpacking, playing the violin, reading, or getting really into a new hobby I just discovered an hour ago.
 
 *   🌍  minnesota
 *   😄  she/her
