@@ -13,7 +13,7 @@ When I'm not sucked into my computer, you can find me flying, backpacking, playi
 *   ✉️  contact me at [aprl.petersen@gmail.com](mailto:aprl.petersen@gmail.com) or on [linkedin](https://www.linkedin.com/in/april-petersen)
 *   🚀  currently working on [Tailfin](https://github.com/azpsen/tailfin) - a self-hosted flight logbook
 *   🧠  currently learning React + Remix, PyTorch, and Kubernetes
-*   ⚡  fun fact: most fears about AI are actually fears about capitalism
+*   ⚡  fun fact: Abraham Lincoln is in the [wrestling hall of fame](https://nwhof.org/hall_of_fame/bio/128)
   
 ### skills 
 <p align="left">
