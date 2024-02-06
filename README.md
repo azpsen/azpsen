@@ -7,7 +7,7 @@ I love creating genuinely useful programs that help me and others, but I also fi
 
 When I'm not sucked into my computer, you can find me flying, backpacking, playing the violin, reading, or getting really into a new hobby I just discovered an hour ago.
 
-*   🌍  minnesota
+*   ❄️  minnesota
 *   😄  she/her
 *   📜  find my resume [here](https://azpsen.com/assets/doc/resume.pdf)
 *   ✉️  contact me at [aprl.petersen@gmail.com](mailto:aprl.petersen@gmail.com) or on [linkedin](https://www.linkedin.com/in/april-petersen)
